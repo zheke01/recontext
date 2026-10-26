@@ -1,0 +1,10 @@
+# Local credentials and private investigation material
+.env
+.env.*
+!.env.example
+credentials*.json
+service-account*.json
+/data/
+/uploads/
+/evidence/
+/reports/
